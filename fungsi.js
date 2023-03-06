@@ -13,3 +13,6 @@ console.log(divide(50,10))
 
 console.log(add(99,10))
 
+const mathSin = (number) => mathSin(number);
+console.log(mathSin(30));
+
